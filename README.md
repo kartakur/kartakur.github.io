@@ -1,1 +1,0 @@
-"# kartakur.github.io" 
